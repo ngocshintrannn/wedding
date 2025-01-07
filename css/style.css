@@ -1858,7 +1858,7 @@ a:focus {
 }
 
 .hero .wedding-announcement .save-the-date:before {
-  background-color: rgba(94, 154, 142, 0.3);
+  background-color: rgba(154, 94, 107, 0.3);
   width: 110%;
   height: 110%;
   left: -5%;
@@ -1877,7 +1877,7 @@ a:focus {
 }
 
 .hero .wedding-announcement .save-the-date:after {
-  background-color: rgba(94, 154, 142, 0.7);
+  background-color: rgba(154, 94, 107, 0.3);
   width: 100%;
   height: 100%;
   left: 0;
